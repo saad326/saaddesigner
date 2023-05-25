@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>My Website</title>
+</head>
+<body>
+  <header>
+    <nav>
+      <div class="container">
+        <h1>My Website</h1>
+        <ul>
+          <li><a href="#">Home</a></li>
+          <li><a href="#">About</a></li>
+          <li><a href="#">Services</a></li>
+          <li><a href="#">Contact</a></li>
+        </ul>
+      </div>
+    </nav>
+  </header>
+  
+  <section id="about">
+    <div class="container">
+      <h2>About Us</h2>
+      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer commodo, neque eget gravida interdum, lectus mi cursus purus, non dapibus urna tortor vitae purus. Ut venenatis metus id lectus fermentum, eu feugiat enim cursus. Morbi tristique sem ac turpis consequat, a suscipit nulla efficitur.</p>
+      <p>Phasellus dignissim semper consequat. Vestibulum a purus convallis, dignissim libero et, facilisis risus. Nunc sed risus non lorem efficitur aliquet ac a ante. Pellentesque posuere eleifend tortor nec pharetra.</p>
+      <a href="#" class="btn">Learn More</a>
+    </div>
+  </section>
+
+  <section id="gallery">
+    <div class="container">
+      <h2>Gallery</h2>
+      <img src="path/to/image.jpg" alt="Image Description">
+    </div>
+  </section>
+
+</body>
+</html>
+
